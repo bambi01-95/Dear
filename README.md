@@ -1,1 +1,1 @@
-# <img src="DearLogo.jpg" witdth="60"> Dear
+# <img src="DearLogo.jpg" width="60"> Dear
