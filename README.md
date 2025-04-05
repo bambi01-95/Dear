@@ -1,2 +1,1 @@
-# Dear
-Project SNS
+# <img src="DearLogo.jpg" witdth="60"> Dear
