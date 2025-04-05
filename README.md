@@ -1,6 +1,6 @@
 <img src="DearLogo.jpg" width="90"> 
 
-# 🧪 Dear 
+# 🦌 Dear 
 iversity project!"**
 
 This platform is designed to support students working on my university projects.  
