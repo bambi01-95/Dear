@@ -1,10 +1,19 @@
 <img src="DearLogo.jpg" width="90"> 
 
 # 🦌 Dear 
-iversity project!"**
+
+**"SNS for expanding my university project!"**
 
 This platform is designed to support students working on my university projects.  
 You can easily share your progress, connect with others, and collaborate on exciting ideas.
+
+---
+
+## 🚧 Status: Under Development
+
+> This project is currently **under active development** and has **not been released yet**.  
+> Features, UI, and functionality are subject to change.  
+> Stay tuned for updates!
 
 ---
 
