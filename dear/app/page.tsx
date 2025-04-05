@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <h1 className="text-4xl font-bold">Welcome to Dear</h1>
       <Image
-        src="/dear.png"
+        src="/svgs/DearLogo.svg"
         alt="Dear Logo"
         width={300}
         height={300}
